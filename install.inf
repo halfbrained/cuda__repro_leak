@@ -1,0 +1,11 @@
+[info]
+title=cuda__repro_leak
+desc=(Fill the description)
+type=cudatext-plugin
+subdir=cuda__repro_leak
+homepage=(Fill the GitHub repo URL)
+
+[item12]
+section=commands
+caption=_Repro\Show fat menu
+method=show_fat_menu
